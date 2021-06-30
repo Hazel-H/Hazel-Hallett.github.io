@@ -5,12 +5,5 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Masters Project Sep 2021 - Jan 2022: Climate Change and Arctic Soundscapes
+* Analysing underwater acoustics data to quantitatively measure climate change through ice processes in Arctic locations. 
