@@ -44,6 +44,12 @@ Skills
 * C
 * Advanced Excel and VBA
 
+Achievements
+======
+* June 2016: Physicist of the Year Award
+  * Received an award from the Ogden Trust in 2016 for dedication, enthusiasm and commitment to my studies in Physics. I organized and attended events performing simple experiments to younger students, an initiative inspired by the ‘Girls into Physics’ day at the University of Exeter. I gained
+   experience in communicating and explaining scientific
+
 Extra Curricular Activities
 ======
 * 2017 - 2021: Rowing 
@@ -52,8 +58,4 @@ Extra Curricular Activities
 
 * 2021: Women In All Things Data (WIATD) Mentorship Program
   * Gained invaluable insight into work as a data science consultant at Avanade, confirming my interest in the field. I enjoy problem solving, and the application of data analysis to a wide variety of real- world business problems appeals to me. Webinars and monthly meetings have further developed my communication and networking skills.
-
-* June 2016: Physicist of the Year Award
-  * Received an award from the Ogden Trust in 2016 for dedication, enthusiasm and commitment to my studies in Physics. I organized and attended events performing simple experiments to younger students, an initiative inspired by the ‘Girls into Physics’ day at the University of Exeter. I gained
-   experience in communicating and explaining scientific
 
