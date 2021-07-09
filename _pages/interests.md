@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Extra-curricular activities and interests"
 permalink: /interests/
 author_profile: true
 ---
